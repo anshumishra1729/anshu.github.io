@@ -2,6 +2,7 @@
 layout: post
 title: Mathematicians: failed
 engineers or failed
-philosophers?
+philosophers? 
 ---
 
+i am a good person 
