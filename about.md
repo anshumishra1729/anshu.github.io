@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I am third year maths major at IISER Berhampur, learning to understand the nature's beauty in mathematical way.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[anshumishra1729@gmail.com](mailto:anshumishra1729@gmail.com)
